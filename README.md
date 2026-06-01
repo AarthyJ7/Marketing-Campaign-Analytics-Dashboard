@@ -8,7 +8,7 @@ Interactive marketing analytics dashboard built in Looker Studio using Google An
 
 ## Dashboard PDF
 
-Marketing_Campaign_Analytics_Dashboard.pdf
+[Download Dashboard PDF](./Marketing_Campaign_Analytics_Dashboard.pdf)
 
 ## Business Objective
 
@@ -28,6 +28,29 @@ This dashboard was designed to answer:
 * Google Analytics 4 (GA4)
 * Calculated Fields
 * Interactive Filters
+
+## Dashboard Preview
+
+### Executive Overview
+
+PASTE_SCREENSHOT_1_HERE
+
+### Acquisition Performance
+
+PASTE_SCREENSHOT_2_HERE
+
+### Audience & Engagement
+
+PASTE_SCREENSHOT_3_HERE
+
+### Ecommerce Funnel Analysis
+
+PASTE_SCREENSHOT_4_HERE
+
+### Campaign Performance
+
+PASTE_SCREENSHOT_5_HERE
+
 
 ## Dashboard Story
 
