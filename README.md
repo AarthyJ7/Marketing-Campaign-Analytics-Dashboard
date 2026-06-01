@@ -29,27 +29,7 @@ This dashboard was designed to answer:
 * Calculated Fields
 * Interactive Filters
 
-## Dashboard Preview
 
-### Executive Overview
-
-![Executive Overview](Page1_Executive_Overview.jpg)
-
-### Acquisition Performance
-
-![Acquisition Performance](Page2_Acquisition_Performance.jpg)
-
-### Audience & Engagement
-
-![Audience & Engagement](Page3_Audience_Engagement.jpg)
-
-### Ecommerce Funnel Analysis
-
-![Ecommerce Funnel Analysis](Page4_E-Commerce_Funnel.jpg)
-
-### Campaign Performance
-
-![Campaign Performance](Page5_Campaign_Performance.jpg)
 
 
 ## Dashboard Story
