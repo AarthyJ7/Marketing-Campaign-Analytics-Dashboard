@@ -8,7 +8,7 @@ Interactive marketing analytics dashboard built in Looker Studio using Google An
 
 ## Dashboard PDF
 
-[Download Dashboard PDF](Marketing_Campaign_Analytics_Dashboard.pdf)
+[Download Dashboard PDF](./Marketing_Campaign_Analytics_Dashboard.pdf)
 
 ## Business Objective
 
