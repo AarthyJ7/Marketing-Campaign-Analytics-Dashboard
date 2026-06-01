@@ -33,23 +33,23 @@ This dashboard was designed to answer:
 
 ### Executive Overview
 
-![Executive Overview](Page 1_Executive Overview.jpg)
+![Executive Overview](Page1_Executive_Overview.jpg)
 
 ### Acquisition Performance
 
-![Acquisition Performance](Page 2_Acquisition Performance.jpg)
+![Acquisition Performance](Page2_Acquisition_Performance.jpg)
 
 ### Audience & Engagement
 
-![Audience & Engagement](Page 3_Audience Engagement.jpg)
+![Audience & Engagement](Page3_Audience_Engagement.jpg)
 
 ### Ecommerce Funnel Analysis
 
-![Ecommerce Funnel Analysis](Page 4_E-Commerce Funnel.jpg)
+![Ecommerce Funnel Analysis](Page4_E-Commerce_Funnel.jpg)
 
 ### Campaign Performance
 
-![Campaign Performance](Page 5_Campaign Performance.jpg)
+![Campaign Performance](Page5_Campaign_Performance.jpg)
 
 
 ## Dashboard Story
