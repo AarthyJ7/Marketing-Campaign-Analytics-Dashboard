@@ -33,23 +33,23 @@ This dashboard was designed to answer:
 
 ### Executive Overview
 
-PASTE_SCREENSHOT_1_HERE
+![Executive Overview](Page 1_Executive Overview.jpg)
 
 ### Acquisition Performance
 
-PASTE_SCREENSHOT_2_HERE
+![Acquisition Performance](Page 2_Acquisition Performance.jpg)
 
 ### Audience & Engagement
 
-PASTE_SCREENSHOT_3_HERE
+![Audience & Engagement](Page 3_Audience Engagement.jpg)
 
 ### Ecommerce Funnel Analysis
 
-PASTE_SCREENSHOT_4_HERE
+![Ecommerce Funnel Analysis](Page 4_E-Commerce Funnel.jpg)
 
 ### Campaign Performance
 
-PASTE_SCREENSHOT_5_HERE
+![Campaign Performance](Page 5_Campaign Performance.jpg)
 
 
 ## Dashboard Story
